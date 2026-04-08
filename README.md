@@ -31,7 +31,8 @@ Database operations are managed by Entity Framework, and testing is done with xU
 🔗 [View on GitHub](https://github.com/MarcinPalys/ListaKontaktowWPF.git)  
 A REST API that aggregates job offers from multiple sources.
 Automatically fetches listings every hour and stores them in PostgreSQL with upsert deduplication. 
-Built with Clean Architecture (Domain / Application / Infrastructure / API)..
+Built with Clean Architecture (Domain / Application / Infrastructure / API).
+
 **Tech stack:** `C#` `ASP.NET Core 9` `SQL` `ASP.NET Web API` `PostgreSQL` `Adzuna API`
 
 ---
