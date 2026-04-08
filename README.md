@@ -27,11 +27,12 @@ Database operations are managed by Entity Framework, and testing is done with xU
 
 ---
 
-### 📇 Contact List  
+### 📋 JobAggregator
 🔗 [View on GitHub](https://github.com/MarcinPalys/ListaKontaktowWPF.git)  
-A desktop application built with WPF for managing contact information.  
-Uses SQLite as the database engine and SQL for data operations.  
-**Tech stack:** `C#` `WPF` `SQL` `SQLite`
+A REST API that aggregates job offers from multiple sources.
+Automatically fetches listings every hour and stores them in PostgreSQL with upsert deduplication. 
+Built with Clean Architecture (Domain / Application / Infrastructure / API)..
+**Tech stack:** `C#` `ASP.NET Core 9` `SQL` `ASP.NET Web API` `PostgreSQL` `Adzuna API`
 
 ---
 
