@@ -28,7 +28,7 @@ Database operations are managed by Entity Framework, and testing is done with xU
 ---
 
 ### 📋 JobAggregator
-🔗 [View on GitHub](https://github.com/MarcinPalys/ListaKontaktowWPF.git)  
+🔗 [View on GitHub](https://github.com/MarcinPalys/JobAggregator.git)  
 A REST API that aggregates job offers from multiple sources.
 Automatically fetches listings every hour and stores them in PostgreSQL with upsert deduplication. 
 Built with Clean Architecture (Domain / Application / Infrastructure / API).
